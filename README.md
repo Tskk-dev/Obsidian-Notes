@@ -6,3 +6,11 @@ A Repository for my college notes, written using [obsidian](https://github.com/2
  - Introduction To Computing
  - Purposive Communication
 
+### To be added: 
+ - Computer Programming 1
+ - Mathematics in the Modern World
+ - Principles of accounting
+ - Filipinolohiya
+ - Pathfit 1
+ - Civic Welfare Training Service 1
+   
