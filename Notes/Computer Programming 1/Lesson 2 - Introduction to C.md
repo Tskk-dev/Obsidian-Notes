@@ -33,7 +33,7 @@
        ```
    
    - **scanf()**: Used to take input from the user.  
-     - Example:  
+      Example:  
        ```c
        int x;
        scanf("%d", &x);
