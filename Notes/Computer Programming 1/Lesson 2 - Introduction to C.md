@@ -238,5 +238,3 @@ Even
 ```
 
 ---
-
-This version provides input/output function examples along with their corresponding outputs. Let me know if you need further changes!
