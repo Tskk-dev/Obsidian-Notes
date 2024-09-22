@@ -5,9 +5,9 @@ A Repository for my college notes, written using [Obsidian](https://github.com/2
 ### Includes notes on the following subjects:
  - Introduction To Computing
  - Purposive Communication
-
-### To be added: 
  - Computer Programming 1
+   
+### To be added: 
  - Mathematics in the Modern World
  - Principles of accounting
  - Filipinolohiya
