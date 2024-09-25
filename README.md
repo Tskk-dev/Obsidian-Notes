@@ -5,7 +5,7 @@ A Repository for my college notes, written using [Obsidian](https://obsidian.md/
 ## Usage [Optimal Usage]
 - Install [Obsidian](https://obsidian.md/)
 - Download the repo using the code button or your preferred way of importing github repositories 
-- import the "Notes "folder as a vault in obsidian
+- import the "Notes" folder as a vault in obsidian
 - Done
 
 ## Usage [Non-Optimal Usage]
